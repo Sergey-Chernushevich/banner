@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../fonts/SF-Pro-Heavy.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Heavy.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("../fonts/SF-Pro-Display-Thin.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Display-Thin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/SF-Pro-Display-Regular.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Display-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/SF-Pro-Display-Semibold.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Display-Semibold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../fonts/SF-Pro-Heavy.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Heavy.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/SF-Pro.woff2") format("woff2"),
+    url("../fonts/SF-Pro.woff.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/SF-Pro-Text-Regular.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Text-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/SF-Pro-Text-Semibold.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Text-Semibold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/Roboto-Bold.woff2") format("woff2"),
+    url(".../fonts/Roboto-Bold.woff") format("woff");
+}
+
+:root {
+  --font-family: "SF Pro Display", sans-serif;
+  --second-family: "SF Pro", sans-serif;
+  --third-family: "SF Pro Text", sans-serif;
+  --font3: "Roboto", sans-serif;
+}
