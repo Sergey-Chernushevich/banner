@@ -1,4 +1,4 @@
-### 1 npm i
+### npm i
 
 ### for develpment
 
